@@ -1,0 +1,6 @@
+com.github.patou.gitmoji
+club.nutsoft.Github3Theme
+com.jetbrains.grayTheme
+org.toml.lang
+com.github.copilot
+izhangzhihao.rainbow.brackets.lite

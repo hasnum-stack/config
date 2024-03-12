@@ -1,0 +1,15 @@
+<scheme name="_@user_GitHub Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2023-12-25T14:09:50</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2023.2.0.0</property>
+    <property name="modified">2024-02-07T17:35:42</property>
+    <property name="originalScheme">GitHub Light</property>
+    <property name="partialSave">true</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Agave Nerd Font Propo" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+</scheme>

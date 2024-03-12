@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="214a6a06-bf35-42d9-b402-29a9977e558a" name="yantiantest">
+        <fileTransfer accessType="SFTP" host="10.1.120.73" port="22" sshConfigId="70761b91-77af-4eff-8fd9-9f5d50a340e9" sshConfig="root@10.1.120.73:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,97 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="references" />
+      </set>
+    </option>
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="js.type.hints#function.returns" />
+        <option value="js.type.hints#non.paren.single.param" />
+        <option value="js.type.hints#parameters.in.parens" />
+        <option value="js.type.hints#variables.and.fields" />
+        <option value="ts.type.hints#function.returns" />
+        <option value="ts.type.hints#non.paren.single.param" />
+        <option value="ts.type.hints#parameters.in.parens" />
+        <option value="ts.type.hints#variables.and.fields" />
+      </set>
+    </option>
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="false" />
+        <entry key="js.type.hints" value="false" />
+        <entry key="ts.chain.hints" value="false" />
+        <entry key="ts.enum.hints" value="false" />
+        <entry key="ts.type.hints" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="ECMAScript 6" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+    <option name="VERTICAL_SCROLL_OFFSET" value="2" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="Rust.rust.type.hints" />
+        <option value="TypeScript.ts.chain.hints" />
+        <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="" />
+    <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </JavaScript.js.type.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+    </settingsMapElement>
+  </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+</application>

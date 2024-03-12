@@ -1,0 +1,55 @@
+<keymap version="1" name="hasnum (macOS)" parent="VSCode OSX">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="Exit" />
+  <action id="ExpandCollapseToggleAction">
+    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="SpeedSearch" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="copilot.disposeInlays" />
+</keymap>

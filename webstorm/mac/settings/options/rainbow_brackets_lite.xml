@@ -1,0 +1,6 @@
+<application>
+  <component name="RainbowLiteSettings">
+    <option name="showRainbowIndentGuides" value="false" />
+    <option name="suppressBigFileCheck" value="true" />
+  </component>
+</application>
