@@ -19,7 +19,6 @@
       <laf-to-scheme laf="Catppuccin Latte" scheme="_@user_Catppuccin Latte" />
       <laf-to-scheme laf="Catppuccin Macchiato" scheme="_@user_Catppuccin Macchiato" />
       <laf-to-scheme laf="Catppuccin Mocha" scheme="_@user_Catppuccin Mocha" />
-      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
       <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
       <laf-to-scheme laf="Dracula" scheme="_@user_Dracula (Material)" />
       <laf-to-scheme laf="Dracula Compact" scheme="_@user_Dracula (Material)" />
@@ -36,8 +35,6 @@
       <laf-to-scheme laf="GitHub Dark Compact" scheme="_@user_GitHub Dark (Material)" />
       <laf-to-scheme laf="GitHub Dark Compact Contrast" scheme="_@user_GitHub Dark (Material)" />
       <laf-to-scheme laf="GitHub Dark Contrast" scheme="_@user_GitHub Dark (Material)" />
-      <laf-to-scheme laf="GitHub Dark Dimmed" scheme="_@user_GitHub Dark Dimmed" />
-      <laf-to-scheme laf="Gray" scheme="_@user_Gray" />
       <laf-to-scheme laf="High contrast" scheme="_@user_High contrast" />
       <laf-to-scheme laf="Legacy Gerry Darcula" scheme="_@user_Gerry Darcula" />
       <laf-to-scheme laf="Legacy Gerry Violet" scheme="_@user_Gerry Violet" />
@@ -111,6 +108,7 @@
       <laf-to-scheme laf="SynthWave '84 Compact" scheme="_@user_SynthWave '84 (Material)" />
       <laf-to-scheme laf="SynthWave '84 Compact Contrast" scheme="_@user_SynthWave '84 (Material)" />
       <laf-to-scheme laf="SynthWave '84 Contrast" scheme="_@user_SynthWave '84 (Material)" />
+      <laf-to-scheme laf="dfdeb71c-cf0a-490d-8983-dfb56b5e043f" scheme="_@user_Default" />
     </lafs-to-previous-schemes>
   </component>
 </application>

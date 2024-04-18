@@ -14,6 +14,7 @@
         <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="false" />
       </map>
     </option>
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_DIFF_ON_DOUBLE_CLICK" value="true" />
