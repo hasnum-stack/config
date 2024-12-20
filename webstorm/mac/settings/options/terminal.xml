@@ -1,0 +1,15 @@
+<application>
+  <component name="BlockTerminalUsage">
+    <option name="blockTerminalDisabledLastTimeMillis" value="1734673817722" />
+    <option name="blockTerminalUsedLastTimeMillis" value="1734679984184" />
+    <option name="blockTerminalUsedLastVersion" value="243.21565.180" />
+    <option name="feedbackNotificationShown" value="true" />
+    <shellToExecutedCommandsNumber>
+      <entry key="zsh" value="506" />
+    </shellToExecutedCommandsNumber>
+  </component>
+  <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="true" />
+    <option name="myTabName" value="hi," />
+  </component>
+</application>

@@ -4,12 +4,6 @@
       <list>
         <option value="org.intellij.plugins.postcss" />
         <option value="com.jetbrains.lang.ejs" />
-        <option value="intellij.vitejs" />
-        <option value="org.jetbrains.plugins.vue" />
-        <option value="intellij.nextjs" />
-        <option value="com.deadlock.scsyntax" />
-        <option value="com.intellij.tailwindcss" />
-        <option value="Karma" />
       </list>
     </option>
   </component>

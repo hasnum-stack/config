@@ -1,0 +1,79 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/ZL/code/admin-common" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/agreement" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/content-operation-system/mobile/static/app_agreements" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/ehome-admin" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/ehome-admin-async/admin" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/ehome-admin-async/square" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/ehome-admin/admin" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/ehome-admin/opc" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/ehome-admin/square" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/micro-core" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/micro-core/admin" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/micro-spacebase" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/micro-spacebase/admin" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/wxapp/service-square" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/zapp" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/zapp/service-hub" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/zapp/user-identification" value="true" />
+        <entry key="$USER_HOME$/Documents/ZL/code/zapp/workflow" value="true" />
+        <entry key="$USER_HOME$/Documents/code/test01" value="true" />
+        <entry key="$USER_HOME$/Documents/code/untitled" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/admin-common" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/artifacts/unicauldron" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/artifacts/unicauldron/examples/basic-example" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/artifacts/unicircle" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/content-operation-system/mobile/static/h5OpenSdk" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/dashboard" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/ehome-admin" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/ehome-admin/admin" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/ehome-kit/packages/ehome-rcm" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/ge-ouranos" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/ge-ouranos-app" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/ge-ouranos-app/ge-ouranos-app" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/ge-ouranos-app/ge-ouranos-h5" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/ge-ouranos-dashboard" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/micro-core/admin" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/testucdapp" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/unitychime/gitlab-ci" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/unitychime/ucm-ai" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/unitychime/ucm-system" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/unitychime/unitychime" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/wxapp/service-square" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/zapp" value="true" />
+        <entry key="$USER_HOME$/Documents/esint/zapp/workflow" value="true" />
+        <entry key="$USER_HOME$/Documents/open/ant-design" value="true" />
+        <entry key="$USER_HOME$/Documents/open/can/propertyweb" value="true" />
+        <entry key="$USER_HOME$/Documents/open/config" value="true" />
+        <entry key="$USER_HOME$/Documents/open/ehome-codemod" value="true" />
+        <entry key="$USER_HOME$/Documents/open/flutter_stack/demo01/flutter_application_1" value="true" />
+        <entry key="$USER_HOME$/Documents/open/hasnum-stack.github.io" value="true" />
+        <entry key="$USER_HOME$/Documents/open/husky-test/demo01" value="true" />
+        <entry key="$USER_HOME$/Documents/open/little-star" value="true" />
+        <entry key="$USER_HOME$/Documents/open/my-react" value="true" />
+        <entry key="$USER_HOME$/Documents/open/nr-tui" value="true" />
+        <entry key="$USER_HOME$/Documents/open/nx-example" value="true" />
+        <entry key="$USER_HOME$/Documents/open/react-router" value="true" />
+        <entry key="$USER_HOME$/Documents/open/rsbuild" value="true" />
+        <entry key="$USER_HOME$/Documents/open/stack" value="true" />
+        <entry key="$USER_HOME$/Documents/open/stack/SWC/codemod" value="true" />
+        <entry key="$USER_HOME$/Documents/open/stack/babel/codemod_antd_v3_2_v5" value="true" />
+        <entry key="$USER_HOME$/Documents/open/stack/dumi" value="true" />
+        <entry key="$USER_HOME$/Documents/open/stack/rust/guessing_game" value="true" />
+        <entry key="$USER_HOME$/Documents/open/web-llm" value="true" />
+        <entry key="$USER_HOME$/Downloads/mlc-ai" value="true" />
+        <entry key="$APPLICATION_CONFIG_DIR$/light-edit" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

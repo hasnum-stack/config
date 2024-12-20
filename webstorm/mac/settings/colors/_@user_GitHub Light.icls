@@ -9,7 +9,6 @@
     <property name="partialSave">true</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Agave Nerd Font Propo" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
 </scheme>

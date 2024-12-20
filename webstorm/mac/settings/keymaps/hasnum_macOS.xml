@@ -1,0 +1,10 @@
+<keymap version="1" name="hasnum_macOS" parent="Mac OS X 10.5+">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="Find" />
+  <action id="FindInPath" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+</keymap>

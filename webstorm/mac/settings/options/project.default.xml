@@ -1,0 +1,80 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="MarkdownSettingsMigration">
+        <option name="stateVersion" value="1" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="hasnum" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>CSS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "com.github.patou.gitmoji.display-icon": "emoji",
+    "com.github.patou.gitmoji.insert-in-cursor-position": "true",
+    "com.github.patou.gitmoji.text-after-unicode": "",
+    "com.github.patou.gitmoji.use-unicode": "true",
+    "last_opened_file_path": "/Users/hasnum/.bun/bin/bun",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation"
+  }
+}]]></component>
+      <component name="RustProjectSettings">
+        <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="默认任务">
+          <created>1691128528087</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1691128528087</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+        <option name="CHECK_NEW_TODO" value="false" />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="265" y="154" key="SettingsEditor" timestamp="1710222007698">
+          <screen x="0" y="38" width="1512" height="944" />
+        </state>
+        <state x="265" y="154" key="SettingsEditor/0.38.1512.944" timestamp="1710222007698" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

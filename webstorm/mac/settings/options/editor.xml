@@ -13,11 +13,11 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
-    <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="inheritors" />
         <option value="references" />
+        <option value="vcs.code.vision" />
       </set>
     </option>
   </component>
@@ -25,11 +25,6 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
-    <option name="enabledOptions">
-      <map>
-        <entry key="ts.type.hints#function.returns" value="false" />
-      </map>
-    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="false" />
@@ -46,7 +41,6 @@
         <entry key="ECMAScript 6" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="VERTICAL_SCROLL_OFFSET" value="2" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
@@ -61,7 +55,6 @@
       <set>
         <option value="JavaScript.js.chain.hints" />
         <option value="JavaScript.js.type.hints" />
-        <option value="Rust.rust.type.hints" />
         <option value="TypeScript.ts.chain.hints" />
         <option value="TypeScript.ts.enum.hints" />
         <option value="TypeScript.ts.type.hints" />
@@ -81,14 +74,7 @@
       </TypeScript.ts.type.hints>
     </settingsMapElement>
   </component>
-  <component name="InlineCompletionOnboarding">
-    <option name="onboardingFinished" value="true" />
-  </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
