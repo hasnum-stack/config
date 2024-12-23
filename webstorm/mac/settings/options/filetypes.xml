@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="19">
-    <extensionMap>
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

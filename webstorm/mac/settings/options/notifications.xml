@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Dependencies from package.json" displayType="NONE" shouldLog="false" />
-    <notification groupId="Dismiss notifications about package.json" displayType="NONE" shouldLog="false" />
-  </component>
-</application>

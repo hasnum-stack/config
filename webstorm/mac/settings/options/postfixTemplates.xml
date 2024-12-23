@@ -1,8 +1,0 @@
-<application>
-  <component name="PostfixTemplates">
-    <template id="trycatch@userDefined" key=".try" provider="builtin.js" language-level="ES6" topmost="false">
-      <conditions />
-      <template name="fakeKey" value="try{&#10;  $EXPR$&#10;}catch() {&#10;&#10;}" toReformat="true" toShortenFQNames="true" />
-    </template>
-  </component>
-</application>
